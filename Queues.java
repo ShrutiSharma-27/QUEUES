@@ -22,3 +22,14 @@ public class Queues {
         System.out.println(queue.contains(3)); //not present : return false
     }
 }
+
+// Output :
+
+// 3
+// 3
+// 6
+// 5
+// false
+// 3
+// true
+// false
